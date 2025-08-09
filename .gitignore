@@ -1,0 +1,7 @@
+venv/
+run.py
+app/
+requirements.txt
+tests/
+uploads/
+.env
