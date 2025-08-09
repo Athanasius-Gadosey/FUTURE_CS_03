@@ -1,7 +1,12 @@
+# venv/
+# run.py
+# app/
+# requirements.txt
+# tests/
+# uploads/
+# .env
+# .gitignore
+
+.env.example
 venv/
-run.py
-app/
-requirements.txt
-tests/
-uploads/
 .env
